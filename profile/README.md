@@ -11,7 +11,7 @@
 </div>
 </br>
 <div>
-    <img src="./assets/logo.png" alt="OpenSky Logo" width="100px"/>
+    <img src="../assets/logo.png" alt="OpenSky Logo" width="100px"/>
 </div>
 
 # 🌌 OpenSky Project
