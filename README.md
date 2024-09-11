@@ -87,8 +87,8 @@ OpenSky is based on the app [**Bluesky**](https://github.com/bluesky-social), de
 </div> 
 
 --- -->
-<div style="text-align: center;">
-    <a href="https://www.github.com/rafaelbd" target="_blank">
+<div align="center">
+    <a href="https://www.github.com/Rafael-BD" target="_blank">
     <img src="https://img.shields.io/badge/Developed%20by-Rafael%20BD-blue?style=for-the-badge&logo=github" alt="Developed by Rafael BD"/>
     </a>
 </div>
