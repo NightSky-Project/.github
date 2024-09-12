@@ -46,7 +46,7 @@ OpenSky is a mobile app based on the original Bluesky, with a significant differ
 
 ### 🗺️ Roadmap
 
-- [Project Roadmap](#) - Follow the progress and upcoming features of OpenSky.
+- [Project Roadmap](https://possible-jester-53f.notion.site/Roadmap-pt-br-0ff9d8e4d26a80ac8884c81d60cae551) - Follow the progress and upcoming features of OpenSky. (pt-br)
 
 <!--
 </br>
