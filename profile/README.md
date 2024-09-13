@@ -3,7 +3,7 @@
     <div style="font-size: 14px; font-weight: bold;">
         🌐 Other languages:
     </div>
-    <a href="./langs/README-pt_br.md">• Português</a>
+    <a href="https://github.com/OpenSky-Project/.github/blob/main/langs/README-pt_br.md">• Português</a>
     <!-- <a href="./langs/README-es.md">Español</a> •
     <a href="./langs/README-fr.md">Français</a> •
     <a href="./langs/README-de.md">Deutsch</a> •
