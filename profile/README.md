@@ -11,16 +11,16 @@
 </div>
 </br>
 <div>
-    <img src="../assets/logo.png" alt="OpenSky Logo" width="100px"/>
+    <img src="../assets/logo.png" alt="NightSky Logo" width="100px"/>
 </div>
 
-# 🌌 OpenSky Project
+# 🌌 NightSky Project
 
-**Welcome to OpenSky!** An innovative project that transforms the use of Bluesky, allowing you to create, modify, and add functionalities to the original app through community-developed plugins. Our goal is to build an open, collaborative, and full of possibilities ecosystem, where each user can shape their Bluesky experience their way!
+**Welcome to NightSky!** An innovative project that transforms the use of Bluesky, allowing you to create, modify, and add functionalities to the original app through community-developed plugins. Our goal is to build an open, collaborative, and full of possibilities ecosystem, where each user can shape their Bluesky experience their way!
 
 ## 🎯 Project Purpose
 
-OpenSky is a mobile app based on the original Bluesky, with a significant difference: **support for custom plugins** created by the community. We want to facilitate the creation of new functionalities and modifications in the app, allowing users and developers to contribute their ideas and solutions.
+NightSky is a mobile app based on the original Bluesky, with a significant difference: **support for custom plugins** created by the community. We want to facilitate the creation of new functionalities and modifications in the app, allowing users and developers to contribute their ideas and solutions.
 
 ### 🧩 Key Features
 
@@ -32,7 +32,7 @@ OpenSky is a mobile app based on the original Bluesky, with a significant differ
 
 ### 🚀 Application
 
-- [Installation Guide](#) - How to download and configure OpenSky on your device.
+- [Installation Guide](#) - How to download and configure NightSky on your device.
 - [How to Contribute](#) - Instructions for developing and submitting your improvements to the app.
 
 ### 🧩 Plugin Repository
@@ -41,19 +41,19 @@ OpenSky is a mobile app based on the original Bluesky, with a significant differ
 
 ### 🛠️ Creating Plugins
 
-- [Plugin Creation Guide](#) - Step-by-step guide to create your own plugin and integrate it into OpenSky.
+- [Plugin Creation Guide](#) - Step-by-step guide to create your own plugin and integrate it into NightSky.
 - [Plugin Examples](#) - Practical examples to start developing.
 
 ### 🗺️ Roadmap
 
-- [Project Roadmap](#) - Follow the progress and upcoming features of OpenSky.
+- [Project Roadmap](#) - Follow the progress and upcoming features of NightSky.
 
 <!--
 </br>
 
 ## 🤝 Supporters
 
- We want to immensely thank our supporters, who help keep OpenSky running and allow us to continue creating a better app for everyone. 💙
+ We want to immensely thank our supporters, who help keep NightSky running and allow us to continue creating a better app for everyone. 💙
 
 <div align="center">
   <img src="link_to_sponsors_image_here" alt="Project Sponsors" width="600px"/>
@@ -63,16 +63,16 @@ OpenSky is a mobile app based on the original Bluesky, with a significant differ
 
 ## ⚖️ Copyright
 
-OpenSky is based on the app [**Bluesky**](https://github.com/bluesky-social), developed by its original team, and all rights to the base app belong exclusively to them. This project aims only to offer an extra layer of customization and is not affiliated with Bluesky or its developers.
+NightSky is based on the app [**Bluesky**](https://github.com/bluesky-social), developed by its original team, and all rights to the base app belong exclusively to them. This project aims only to offer an extra layer of customization and is not affiliated with Bluesky or its developers.
 
 ---
 </br>
 
 <!-- ### 📬 Contact
 
-- Discord: [OpenSky Community](#)
-- Twitter: [@OpenSkyProject](#)
-- Email: opensky@project.com
+- Discord: [NightSky Community](#)
+- Twitter: [@NightSkyProject](#)
+- Email: nightsky@project.com
 
 --- -->
 
@@ -81,7 +81,7 @@ OpenSky is based on the app [**Bluesky**](https://github.com/bluesky-social), de
 
 ## 🎁 Support the Project
 <div align="center">
-    <a href="https://www.buymeacoffee.com/openskyproject" target="_blank">
+    <a href="https://www.buymeacoffee.com/nightskyproject" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217px"/>
     </a>
 </div> 
