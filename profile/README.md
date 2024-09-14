@@ -3,7 +3,7 @@
     <div style="font-size: 14px; font-weight: bold;">
         🌐 Other languages:
     </div>
-    <a href="./langs/README-pt_br.md">• Português</a>
+    <a href="https://github.com/OpenSky-Project/.github/blob/main/langs/README-pt_br.md">• Português</a>
     <!-- <a href="./langs/README-es.md">Español</a> •
     <a href="./langs/README-fr.md">Français</a> •
     <a href="./langs/README-de.md">Deutsch</a> •
@@ -46,7 +46,7 @@ NightSky is a mobile app based on the original Bluesky, with a significant diffe
 
 ### 🗺️ Roadmap
 
-- [Project Roadmap](#) - Follow the progress and upcoming features of NightSky.
+- [Project Roadmap](https://possible-jester-53f.notion.site/Roadmap-pt-br-0ff9d8e4d26a80ac8884c81d60cae551) - Follow the progress and upcoming features of OpenSky. (pt-br)
 
 <!--
 </br>
